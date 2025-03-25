@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:propertyName="rotationY"
+        android:duration="1200"
+        android:valueFrom="270"
+        android:valueTo="720"
+        android:startOffset="300"
+        />
+</set>
